@@ -15,7 +15,7 @@ function preload()
 {
 bgImg = loadImage("bg2.jpg")
 bg2Img = loadImage("bg3.jpg")
-logoImg = loadImage("logoImg.png")
+logoImg = loadImage("logoimg.png")
 buttonImg = loadImage("buttonImg.png")
 bg1Img = loadImage("bg4.jpg")
 plyr1Img = loadImage("plyr1.png")
