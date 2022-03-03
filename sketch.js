@@ -1,7 +1,7 @@
 var bg,bgImg,bg2Img;
 var gameState="START"
 var zombierandomcount,level1title,level1titleImg,bullettitle,bullettitleImg,scoretitle,scoretitleImg;
-var zombie,bullet1;
+var zombie,bullet1,logoImg;
 var zombieGroup,blast,blastImg;
 var score=19,bulletcount=21,timer1=0,timer2=30,timer12=0,timer22=30,score1=19;
 var gamewin,gameover,gamewinImg,gameoverImg;
